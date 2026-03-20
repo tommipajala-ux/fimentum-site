@@ -18,7 +18,7 @@ Modern single-page landing site for Fimentum Oy - funding advisory for Finnish s
 - [x] Header with sticky nav and mobile menu
 - [x] Footer with social links and company info
 - [x] Logo integration (dark + white versions)
-- [x] Partner logos (Business Finland, EU, Finnvera, ELY)
+- [x] Partner logos (Business Finland, EU, Finnvera, Elinvoimakeskus)
 - [x] Partnerships section (Kasvu Open, Business Tampere)
 - [x] Design system utilities in CSS
 - [x] Tommi photo integration (LinkedIn)

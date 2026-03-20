@@ -18,7 +18,7 @@ Fimentum is the approachable, experienced partner who navigates the complex Finn
 ### 2. Insider Knowledge
 - Deep expertise in Business Finland
 - EU/Horizon program specialists
-- Finnvera, ELY connections
+- Finnvera, Elinvoimakeskus connections
 - VC and angel network
 
 ### 3. Founder DNA
