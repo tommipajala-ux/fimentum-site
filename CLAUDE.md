@@ -29,7 +29,7 @@ Tailwind v4 uses CSS-first configuration in `src/styles/global.css`:
 ### Page Structure
 Single page (`src/pages/index.astro`) composed of section components:
 ```
-Layout → Header → Hero → Services → Stats → About → Process → Contact → Footer
+Layout → Header → Hero → Services → Credibility → About → Process → Contact → Footer
 ```
 
 Each section is a standalone Astro component in `src/components/`.
