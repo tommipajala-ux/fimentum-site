@@ -125,7 +125,7 @@ Contact Me
 **Tagline:** Strategic, hands-on funding advisory for growth.
 
 **Contact:**
-- Email: tommi@fimentum.fi
+- Email: tommi.pajala@fimentum.fi
 - Phone: +358 40 849 2106
 
 ---

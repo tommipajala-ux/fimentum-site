@@ -11,9 +11,9 @@ interface Props {
 const {
   title = "Let's Talk Funding",
   subtitle = "Ready to explore your funding options? Book a free consultation or reach out directly.",
-  email = "tommi@fimentum.fi",
+  email = "tommi.pajala@fimentum.fi",
   phone = "+358 40 849 2106",
-  location = "Tampere, Finland",
+  location = "Tampere & Helsinki, Finland",
   calendlyUrl = "#", // Replace with actual Calendly URL
 } = Astro.props;
 ---
@@ -48,7 +48,7 @@ const {
 
         <a
           href={`tel:${phone.replace(/\s/g, "")}`}
-          class="flex items-center gap-2 text-slate-600 transition-colors hover:text-primary-600"
+          class="flex shrink-0 items-center gap-2 whitespace-nowrap text-slate-600 transition-colors hover:text-primary-600"
         >
           <svg class="h-5 w-5 text-primary-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path
@@ -61,7 +61,7 @@ const {
           <span class="text-lg">{phone}</span>
         </a>
 
-        <div class="flex items-center gap-2 text-slate-600">
+        <div class="flex shrink-0 items-center gap-2 whitespace-nowrap text-slate-600">
           <svg class="h-5 w-5 text-primary-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path
               stroke-linecap="round"
